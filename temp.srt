@@ -1438,7 +1438,7 @@
 311
 00:36:48,200 --> 00:36:52,050
 <b><font color="red">Ембер:</font></b>
-<font color="red">This is it. One of the deserted <b>temples of The Four Winds</b>.</font>
+<font color="red">Ось воно. Один із покинутих <b>храмів Чотирьох Вітрів</b>.</font>
 
 312
 00:36:52,100 --> 00:36:58,400
