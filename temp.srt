@@ -762,7 +762,7 @@
 164
 00:19:14,800 --> 00:19:20,500
 <b><font color="red">Ембер:</font></b>
-<font color="red">Діючий Гранд Майстер Лицарів Фавонія - Джин, Захисник Мондстадту.</font>
+<font color="red">Діючий Верховний Майстер Лицарів Фавонія - Джин, Захисник Мондстадту.</font>
 
 165
 00:19:20,500 --> 00:19:25,350
@@ -983,7 +983,7 @@
 207
 00:26:34,000 --> 00:26:41,950
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Діючий Гранд Мастер Лицарів Фавонію також дуже зацікавлений у зустрічі з вами, і формально запрошує вас обох до <b>нашого штабу</b>.</font>
+<font color="blue">Діючий Верховний Майстер Лицарів Фавонію також дуже зацікавлений у зустрічі з вами, і формально запрошує вас обох до <b>нашого штабу</b>.</font>
 
 208
 00:27:20,950 --> 00:27:25,000
@@ -1191,7 +1191,7 @@
 
 251
 00:30:48,600 --> 00:30:49,500
-<b>Pasichnik:</b> Чому Джин Діючий Гранд Мастер?
+<b>Pasichnik:</b> Чому Джин Діючий Верховний Майстер?
 
 252
 00:30:49,500 --> 00:30:54,540
@@ -1562,56 +1562,56 @@
 336
 00:41:30,150 --> 00:41:34,750
 <b><font color="red">Ембер:</font></b>
-<font color="red">But at least this way we've helped Джин out.</font>
+<font color="red">Але так ми допомогли Джин.</font>
 
 337
 00:41:34,800 --> 00:41:40,300
 <b><font color="red">Ембер:</font></b>
-<font color="red">In the past, we were at least able to defend the city and keep it safe.</font>
+<font color="red">Раніше ми були в змозі, принаймні, захищати місто і гарантувати його безпеку.</font>
 
 338
 00:41:40,300 --> 00:41:46,450
 <b><font color="red">Ембер:</font></b>
-<font color="red">This, of course, is mostly thanks to Джин.</font>
+<font color="red">Все це, в основному, завдячуючи Джин.</font>
 
 339
 00:41:46,500 --> 00:41:54,550
 <b><font color="red">Ембер:</font></b>
-<font color="red">But now with Stormterror directly attacking the city itself...</font>
+<font color="red">Але зараз з прямими нападами Бурешторма на місто...</font>
 
 340
 00:41:54,650 --> 00:42:00,850
 <b><font color="red">Ембер:</font></b>
-<font color="red">"The winds change, so too should our tactics."</font>
+<font color="red">"Вітер змінився, і з ним має змінитись наша тактика."</font>
 
 341
 00:41:57,650 --> 00:42:00,850
-<b>Pasichnik:</b> Sounds deep.
+<b>Pasichnik:</b> Звучить глибоко.
 
 342
 00:42:00,900 --> 00:42:03,150
 <b><font color="red">Ембер:</font></b>
-<font color="red">It's what Ліза like to say.</font>
+<font color="red">Це Ліза. Вона часто так каже.</font>
 
 343
 00:42:03,200 --> 00:42:07,350
 <b><font color="red">Ембер:</font></b>
-<font color="red">Speaking of which, The Four Winds we were discussing earlier...</font>
+<font color="red">Говорячи про неї, Чотири Вітри, які ми до цього обговорювали...</font>
 
 345
 00:42:07,400 --> 00:42:10,950
 <b><font color="red">Ембер:</font></b>
-<font color="red">If you want to learn more about our history, you can ask Ліза.</font>
+<font color="red">Якщо хоче дізнатись більше про нашу історію, тобі варто побалакати про це з Лізою.</font>
 
 346
 00:42:11,000 --> 00:42:14,550
 <b><font color="red">Ембер:</font></b>
-<font color="red">...I'm not saying I don't know our history! It's just...</font>
+<font color="red">...Я не кажу що я не знаю нашої історії! Просто...</font>
 
 347
 00:42:14,600 --> 00:42:21,600
 <b><font color="red">Ембер:</font></b>
-<font color="red">I mean... A librarian is supposed to be more knowledgeable than an Outrider, right?</font>
+<font color="red">В сенсі... Бібліотекар зобов'язаний бути більш обізнаним аніж передовик, адже ж так?</font>
 
 348
 00:43:25,000 --> 00:43:30,000
@@ -1620,244 +1620,244 @@
 349
 00:46:04,000 --> 00:46:06,000
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">You've arrived.</font>
+<font color="blue">Ти прийшов.</font>
 
 350
 00:46:06,050 --> 00:46:09,650
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Come closer. Can you smell that?</font>
+<font color="blue">Підійди ближче. Чуєш цей запах?</font>
 
 351
 00:46:07,100 --> 00:46:09,650
-<b>Pasichnik:</b> It's the smell of burnt Pyro Slimes.
+<b>Pasichnik:</b> Схоже на запах палаючих Піро Слаймів.
 
 352
 00:46:09,700 --> 00:46:11,950
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Something must be happend in the <b>temple</b>.</font>
+<font color="blue">Щось відбувається всередині <b>храму</b>.</font>
 
 353
 00:46:12,000 --> 00:46:17,800
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">I imagine there will be slimes, hilichurls, and... whatewer is giving Stormterror extra power.</font>
+<font color="blue">Відчуваю шо там будуть слайми, хілічурли і... що б то не було, що підживлює Бурешторма.</font>
 
 354
 00:46:17,850 --> 00:46:22,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Oh yes, it is going to be lively in there indeed!</font>
+<font color="blue">О так, там буде багато живності!</font>
 
 355
 00:46:19,350 --> 00:46:22,450
-<b>Pasichnik:</b> Will it be dangerous?
+<b>Pasichnik:</b> Це буде небезпечно?
 
 356
 00:46:22,500 --> 00:46:28,050
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">As bustling as it may be - no, I can't imagine it will be dangerous at all.</font>
+<font color="blue">Не зважаючи на можливу метушню - ні, я не можу придумати чим це може бути небезпечно.</font>
 
 357
 00:46:28,100 --> 00:46:32,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">It's a pity that the Temple of the Wolf has been disturbed by such an atrocity.</font>
+<font color="blue">Шкода що Храм Вовка був потурбований таким кодлом.</font>
 
 358
 00:46:28,500 --> 00:46:34,600
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Let's head in, Pasichnik.</font>
+<font color="blue">Рухаймось вперед, Пасічник.</font>
 
 359
 00:46:34,650 --> 00:46:40,250
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">No one makes offerings to The Four Winds anymore, yet the old winds never vanish...</font>
+<font color="blue">Ніхто вже не робить піднесень Чотирьом Вітрам, тим не менш  старі вітри ніколи не зникають...</font>
 
 360
 00:46:40,300 --> 00:46:44,400
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">We need to clear out the temples, for The Four Winds.</font>
+<font color="blue">Ми мусимо очистити храми, для Чотирьох Вітрів.</font>
 
 361
 00:47:10,600 --> 00:47:14,750
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Let me show ypu how the Knights of Favonius conquer our adversaries!</font>
+<font color="blue">Дозволь мені продемонструвати як Лицарі Фавонію підкорюють наших ворогів!</font>
 
 362
 00:47:23,500 --> 00:47:27,600
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Hmm. If I'm not mistaken, the end of the templeshould be up there.</font>
+<font color="blue">Хм. Якщо я не помиляюсь, то кінець храму має бути там.</font>
 
 363
 00:47:28,850 --> 00:47:30,350
 <b>Паймон:</b>
-<i>Wait... How do you know?</i>
+<i>Зажди... Звідки ти знаєш?</i>
 
 364
 00:47:31,450 --> 00:47:33,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Heh, experience.</font>
+<font color="blue">Хех, досвід.</font>
 
 365
 00:47:35,000 --> 00:47:41,350
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">The kind of experience you get after years of dealing with things like this for others.</font>
+<font color="blue">Досвід, який набувається коли роками розбираєшся з подібними речами для інших.</font>
 
 366
 00:47:44,800 --> 00:47:45,750
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Dodge this!</font>
+<font color="blue">Ухились від цього!</font>
 
 367
 00:47:51,700 --> 00:47:52,850
-<b><font color="darkred">Noel:</font></b>
-<font color="darkred">Leave it all to me.</font>
+<b><font color="darkred">Ноель:</font></b>
+<font color="darkred">Залиште це на мене.</font>
 
 368
 00:47:57,250 --> 00:48:01,850
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Traveler... Unless I'm mistaken, you don't seem to have a Vision.</font>
+<font color="blue">Мандрівник... Якщо я не помиляюсь, здається у тебе нема Віжина.</font>
 
 369
 00:48:03,350 --> 00:48:07,000
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">So how exactly is it that you're able to channel elemental energy?</font>
+<font color="blue">Тоді, як саме ти можеш використовувати елементальну енергію?</font>
 
 370
 00:48:08,650 --> 00:48:11,000
 <b>Паймон:</b>
-<i>It was a very strange occurance.</i>
+<i>Це був дуже дивний випадок.</i>
 
 371
 00:48:22,650 --> 00:48:23,750
-<b><font color="darkred">Noel:</font></b>
-<font color="darkred">Someone needs assistents.</font>
+<b><font color="darkred">Ноель:</font></b>
+<font color="darkred">Комусь потрібна допомога?</font>
 
 372
 00:48:58,500 --> 00:48:59,300
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Cooling!</font>
+<font color="blue">Остигни!</font>
 
 373
 00:49:22,650 --> 00:49:25,000
 <b>Паймон:</b>
-<i>Ugh, finaly... we're here.</i>
+<i>Агх, нарешті... ми прийшли.</i>
 
 374
 00:49:26,450 --> 00:49:30,000
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Seems the path ends here. Let's use the <b>wind currents</b> to fly up.</font>
+<font color="blue">Здається шлях закінчується тут. давайте скористаємось <b>потоками вітру</b> аби піднятись.</font>
 
 375
 00:50:07,750 --> 00:50:10,000
 <b>Паймон:</b>
-<i>Whater! We can use this to put out fire!</i>
+<i>Вода! Ми можемо скористатись цим аби загасити полум'я!</i>
 
 376
 00:50:11,350 --> 00:50:13,800
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Good idea. That's some keen observation.</font>
+<font color="blue">Чудова ідея. Це дуже уважне спостереження.</font>
 
 377
 00:50:15,350 --> 00:50:17,850
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">We should get Джин to give you a title and make you a knight.</font>
+<font color="blue">Треба буде просити Джин аби вона дала тобі титул і зробила тебе лицарем.</font>
 
 378
 00:50:24,150 --> 00:50:25,000
-<b><font color="darkred">Noel:</font></b>
-<font color="darkred">I'll catch up.</font>
+<b><font color="darkred">Ноель:</font></b>
+<font color="darkred">Я наздожену.</font>
 
 379
 00:50:58,000 --> 00:50:59,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Speaking of, did you know?</font>
+<font color="blue">До речі, ти знав?</font>
 
 380
 00:51:00,950 --> 00:51:03,350
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Stormterror was once one of The Four Winds.</font>
+<font color="blue">Бурешторм колись був одним з Чотирьох Вітрів.</font>
 
 381
 00:51:04,900 --> 00:51:10,150
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">I'm not aware of the exact details. If you're interested, you can ask Acting Grand Master about it.</font>
+<font color="blue">Я не знаю усіх подробиць. Якщо ти в цьому зацікавлений то можеш спитати у Діючого Верховного Майстра про це.</font>
 
 382
 00:51:20,150 --> 00:51:22,850
 <b>Паймон:</b>
-<i>Is that the thing that Stormterror is using to gain its power?</i>
+<i>Це штука, яку Бурешторм використовує для збільшення своїх сил?</i>
 
 383
 00:51:24,400 --> 00:51:26,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Seems probable. Let's deal with it.</font>
+<font color="blue">Вигляда можливим. Розберемось із цим.</font>
 
 384
 00:51:31,400 --> 00:51:36,700
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Bravo! What a performance!</font>
+<font color="blue">Браво! Яка вистава!</font>
 
 385
 00:51:36,800 --> 00:51:40,200
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">You are, to my surprise, a well-trained knight.</font>
+<font color="blue">Ти, на моє здивування, добре тренований лицар.</font>
 
 386
 00:51:40,250 --> 00:51:45,350
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">The battles you just fought were sights to behold.</font>
+<font color="blue">Твої спостерігати за твоїми боями було насолодою.</font>
 
 387
 00:51:42,000 --> 00:51:45,350
-<b>Pasichnik:</b> Thanks, that's nice of you to say...
+<b>Pasichnik:</b> Дякую, приємно від тебе таке почути...
 
 388
 00:51:45,400 --> 00:51:50,300
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Haha. I see you already have the knightly virtue of modesty.</font>
+<font color="blue">Ха-ха. Я бачу ти вже маєш лицарську рису скромності.</font>
 
 389
 00:51:50,400 --> 00:51:58,200
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Stories of your heroic deeds to save Mondstadt from destruction shall be known throughot the City of Freedom, well into the future.</font>
+<font color="blue">Історії про твої героїчні вчинки аби зберегти Мондстадт від руйнування будуть знані в усьому Місті Свободи далеко у майбутньому.</font>
 
 390
 00:51:58,250 --> 00:52:01,450
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Please do visit me at our headquaters when you have the time.</font>
+<font color="blue">Будь ласка, навідайся до нашого штабу коли буде час.</font>
 
 391
 00:52:01,500 --> 00:52:05,600
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">I also know a lovely tavern, if that's more your thing.</font>
+<font color="blue">Я також знаю гарну таверну, якщо це більш тобі до вподоби.</font>
 
 392
 00:52:07,450 --> 00:52:09,850
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Quite rewarding, no?</font>
+<font color="blue">Достатня нагорода, чи не так?</font>
 
 393
 00:52:10,350 --> 00:52:12,850
 <b>Паймон:</b>
-<i>We've seized another temple from Stormterror's grasp!</i>
+<i>Ми відбили ще один храм від контролю Бурешторма!</i>
 
 394
 00:52:13,950 --> 00:52:18,950
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">I can take care of the rest here. You go take care of other things while I'm at it.</font>
+<font color="blue">З рештою я розберусь сам. Займіться іншими справами доки я тут.</font>
 
 395
 00:52:19,950 --> 00:52:21,300
 <b>Паймон:</b>
-<i>See you later then, bye-bye~!</i>
+<i>Побачимось згодом, удачі~!</i>
 
 396
 00:52:23,550 --> 00:52:29,500
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">There's no way hilichurls organized an ambush like this themselves - not with their limited mental capacity...</font>
+<font color="blue">Бути не може аби хілічурли влаштували таку засідку самостійно - не з їхніми обмеженими розумовими здібностями...</font>
 
 397
 00:52:34,500 --> 00:52:36,150
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Thus YOU were behind this.</font>
+<font color="blue">Отже ТИ стояв за цим всим.</font>
 
 398
 00:52:40,000 --> 00:52:42,850
@@ -1865,199 +1865,199 @@
 
 399
 00:53:00,000 --> 00:53:03,350
-<font color="firebrick">Knights of Favonius... Always so inefficient.</font>
+<font color="firebrick">Лицарі Фавонію... Неефктивні як завжди.</font>
 
 400
 00:53:03,800 --> 00:53:11,000
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Agree to dissagree. But, your involment in this just made things a whole more interesting.</font>
+<font color="blue">Можеш лишитись при своїй думці, але твоє втручання зробило речі більш цікавими.</font>
 
 401
 00:53:17,900 --> 00:53:23,700
-Obtained New Character
+Отримано Нового Персонажа
 <b><font color="blue">Кайя</font></b>
 
 402
 00:54:24,450 --> 00:54:25,850
-<b>Pasichnik:</b> Our reward on the road.
+<b>Pasichnik:</b> Наша нагорода в дорозі.
 
 403
 00:56:02,850 --> 00:56:04,850
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Hey cutie.</font>
+<font color="purple">Агов, миленький.</font>
 
 404
 00:56:04,950 --> 00:56:09,000
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">You're going to help me out too? How kind of you.</font>
+<font color="purple">Ти збираєшся допомогти мені? Як мило з твого боку.</font>
 
 405
 00:56:09,050 --> 00:56:12,900
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Don't hesitate to come to me if you need anything.</font>
+<font color="purple">Не бійся звертатись до мене, якшо тобі щось знадобиться.</font>
 
 406
 00:56:10,050 --> 00:56:12,900
-<b>Pasichnik:</b> Why would a librarian be at the ruins...?
+<b>Pasichnik:</b> Що бібліотекар робить біля руїн...?
 
 407
 00:56:12,950 --> 00:56:15,500
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Hmm... Good question.</font>
+<font color="purple">Хм... Хороше питання.</font>
 
 408
 00:56:15,550 --> 00:56:18,750
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Well, because Джин trusts me.</font>
+<font color="purple">Ну, тому що Джин довіряє мені.</font>
 
 409
 00:56:18,850 --> 00:56:21,200
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">So you should as well.</font>
+<font color="purple">Тому й тобі б варто.</font>
 
 410
 00:56:50,400 --> 00:56:52,830
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">I guess I could give this a go.</font>
+<font color="purple">Що ж, спробую з цим впоратись.</font>
 
 411
 00:56:58,050 --> 00:57:02,500
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">I knew it. There is a strong elemental energy coming from deep within this temple.</font>
+<font color="purple">Я була права. В глибині цього храму ж джерело потужної елементальної енергії.</font>
 
 412
 00:57:03,750 --> 00:57:05.800
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Паймон, are you able to float across?</font>
+<font color="purple">Паймон, ти можеш перелетіти на іншу сторону?</font>
 
 413
 00:57:07,000 --> 00:57:08,800
 <b>Паймон:</b>
-<i>Can't do much even if she does.</i>
+<i>Не можу зробити багато, навіть якщо вона може.</i>
 
 414
 00:57:11,550 --> 00:57:13,500
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Let's ride this wind current, shall we?</font>
+<font color="purple">Може скористаємось цим потоком вітруб що скажете?</font>
 
 415
 00:57:49,650 --> 00:57:50,450
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Leave it to me.</font>
+<font color="purple">Залиште це на мене.</font>
 
 416
 00:57:54,450 --> 00:57:56,250
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">You're in for a little shock.</font>
+<font color="purple">Це тебе шокує.</font>
 
 417
 00:58:01,500 --> 00:58:05,000
 <b>Паймон:</b>
-<i>Hey, a chest! How do we reach it...</i>
+<i>О, скриня! Як нам дістатись до неї...</i>
 
 418
 00:58:06,950 --> 00:58:08,500
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">It's an Electro Monument.</font>
+<font color="purple">Це Електро Монумент.</font>
 
 419
 00:58:09,800 --> 00:58:15,700
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">No wonder. Let me try to activate it with a bit of Electro power. Stand back, sweeties.</font>
+<font color="purple">Не дивина. Дайте но я спробую активувати його за допомогою Електро сил. Відійдіть, солоденькі..</font>
 
 420
 00:58:26,600 --> 00:58:29,450
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Come a little closer... Hm-he-he</font>
+<font color="purple">Підійдіть трохи ближче... Хм-ха-ха</font>
 
 421
 00:58:54,350 --> 00:58:55,430
-<b>Pasichnik:</b> With the wind!
+<b>Pasichnik:</b> За вітром!
 
 422
 00:58:57,100 --> 00:58:58,950
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">You're in for a little shock.</font>
+<font color="purple">Це тебе шокує.</font>
 
 423
 00:58:59,900 --> 00:59:02,500
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">When it comes to Wet enemies, I've got them covered.</font>
+<font color="purple">Коли справа доходить до Мокрих ворогів - у мене все схоплено.</font>
 
 424
 00:59:21,300 --> 00:59:24,630
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Oh, another wind current. Let's ride it up from here.</font>
+<font color="purple">О, ще один потік вітру. Скористаємось ним тут.</font>
 
 425
 00:59:44,250 --> 00:59:46,050
 <b><font color="red">Ембер:</font></b>
-<font color="red">No one escape my sights.</font>
+<font color="red">Від мене ніхто не сховається.</font>
 
 426
 00:59:51,700 --> 00:59:54,400
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Come a little closer... Blitz!</font>
+<font color="purple">Підійдіть трохи ближче... Бліц!</font>
 
 427
 01:00:06,850 --> 01:00:08,100
 <b><font color="blue">Кайя:</font></b>
-<font color="blue">Dodge this!</font>
+<font color="blue">Ухились від цьог!</font>
 
 428
 01:00:08,350 --> 01:00:09.650
 <b><font color="red">Ембер:</font></b>
-<font color="red">Go-go Barron Bunny!</font>
+<font color="red">Вперед, Барон Бані!</font>
 
 429
 01:00:12,200 --> 01:00:15,450
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Chain lightning can be set off between Electro-Charged opponents.</font>
+<font color="purple">Ланцюгову блискавку можна запустити між зарядженими Електро ворогами.</font>
 
 430
 01:00:16,730 --> 01:00:19,250
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">The electrical discharge caused by friction is only a little less shocking than love at first sight.</font>
+<font color="purple">Електричний розряд від тертя лиш трохи менш шокуючий ніж кохання з першого погляду.</font>
 
 431
 01:00:21,200 --> 01:00:23,560
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Oh, you want to know about this gem?</font>
+<font color="purple">Га, хочеш більше дізнатись про цей самоцвіт?</font>
 
 432
 01:00:24,860 --> 01:00:28,900
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">You're kidding... You're seriously asking? This is a Vision.</font>
+<font color="purple">Ти певно жартуєш... Ти питаєш серйозно? Це Віжин.</font>
 
 433
 01:00:30,250 --> 01:00:33,000
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">It's used by the chosen to draw on elemental powers.</font>
+<font color="purple">Він використовується обраними для витягування елементальної енергії.</font>
 
 434
 01:00:34,500 --> 01:00:38,630
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">In terms of mysticism, I suppose you could call it a "magical lightning rod".</font>
+<font color="purple">Оперуючи термінами містицизму, думаю його можна назвати "магічний стержень блискавок".</font>
 
 435
 01:00:49,220 --> 01:00:53,750
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">What... You've never see a Vision? Just where exactly are you from...?</font>
+<font color="purple">Що... Ти ніколи не бачив Віжина? Звідки ж ти родом...?</font>
 
 436
 01:00:54,450 --> 01:00:57,850
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Are you a hilichurl with some level of reasonable intelligence?</font>
+<font color="purple">Чи може бути що ти хілічурл з певним рівнем прийнятного інтелекту?</font>
 
 437
 01:00:59,200 --> 01:01:04,650
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">No. I doubt it. After all, hilichurls aren't exactly known for their smarts.</font>
+<font color="purple">Ні. Сумніваюсь у цьомую Врешті решт - хілічурли славляться не своїми розумниками.</font>
 
 438
 01:01:05,950 --> 01:01:09,830
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">And you, you'd more or less qualify to be a magister's apprentice.</font>
+<font color="purple">Що ж до тебе, ти більше схожий на учня магісра.</font>
 
 439
 01:01:16,150 --> 01:01:18,300
