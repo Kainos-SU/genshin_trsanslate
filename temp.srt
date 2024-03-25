@@ -856,12 +856,12 @@
 181
 00:22:10,800 --> 00:22:15,340
 <b><font color="red">Ембер:</font></b>
-<font color="red">Ну, це тому що вітер - є серцем і душою Мондставдту!</font>
+<font color="red">Ну, це тому що вітер - є серцем і душою Мондстадту!</font>
 
 182
 00:22:15,450 --> 00:22:19,850
 <b><font color="red">Ембер:</font></b>
-<font color="red">Добре, годі тоді балачок! Ну що ж, куртнемо бочку чи дві!</font>
+<font color="red">Добре, годі тоді балачок! Ну що ж, спробуй!</font>
 
 183
 00:22:19,900 --> 00:22:23,900
@@ -1443,121 +1443,121 @@
 312
 00:36:52,100 --> 00:36:58,400
 <b><font color="red">Ембер:</font></b>
-<font color="red">This temples have been left to waste for years now. The people of Mondstadt almost never come here.</font>
+<font color="red">Цей храм роками занепадав.Жителі Модстадту майже ніколи сюди не приходять.</font>
 
 313
 00:36:58,400 --> 00:37:02,500
 <b><font color="red">Ембер:</font></b>
-<font color="red">There's a chance there's a monster nest or a hilichurl camp inside.</font>
+<font color="red">Є шанс що всередині є гніздо монстрів,або табір хілічурлів.</font>
 
 314
 00:37:02,550 --> 00:37:09,850
 <b><font color="red">Ембер:</font></b>
-<font color="red">Even Stormterror has geven up on its own temple.</font>
+<font color="red">Навіть Бурешторм закинув його власний храм.</font>
 
 315
 00:37:03,950 --> 00:37:09,850
-<b>Pasichnik:</b> Stormterror..?
+<b>Pasichnik:</b> Бурежах..?
 
 316
 00:37:09,900 --> 00:37:12,000
 <b><font color="red">Ембер:</font></b>
-<font color="red">...Yes.</font>
+<font color="red">...Так.</font>
 
 317
 00:37:12,000 --> 00:37:19,100
 <b><font color="red">Ембер:</font></b>
-<font color="red">I also find it hard to accept, but... Stormterror was once one of The Four Winds.</font>
+<font color="red">Мені це теж важко прийняти, але... Бурешторм колись теж буа одним з Чотирьох Вітрів.</font>
 
 318
 00:37:19,350 --> 00:37:21,650
 <b>Паймон:</b>
-<i>Ehhhh!?</i>
+<i>Е-е-е!?</i>
 
 319
 00:37:21,700 --> 00:37:26,750
 <b><font color="red">Ембер:</font></b>
-<font color="red">Wait... Did you just feel that?</font>
+<font color="red">Зажди... Щойно... Ти це відчув?</font>
 
 320
 00:37:26,800 --> 00:37:29,300
 <b><font color="red">Ембер:</font></b>
-<font color="red">The wind here... Something off...</font>
+<font color="red">Вітер тут... Щось не так...</font>
 
 321
 00:37:29,400 --> 00:37:34,700
 <b><font color="red">Ембер:</font></b>
-<font color="red">Let's go in and look, Pasichnik. Be careful, the dragon's power is disturbing this area.</font>
+<font color="red">Давай зайдемо всередину і глянемо, Пасічник. Будь обережним,сили дракона порушують спокій цього місця.</font>
 
 322
 00:37:58,000 --> 00:37:59,850
 <b><font color="red">Ембер:</font></b>
-<font color="red">You can use that console to open the door.</font>
+<font color="red">Ти можеш скористатись тією консоллю,аби відкрити двері.</font>
 
 323
 00:38:04,500 --> 00:38:06,800
 <b><font color="red">Ембер:</font></b>
-<font color="red">Wow! I can see so far in the temple!</font>
+<font color="red">Ого! Я можу бачити так далеко в цьому храмові!</font>
 
 324
 00:39:03,500 --> 00:39:05,200
 <b><font color="red">Ембер:</font></b>
-<font color="red">Oh no! A horn!</font>
+<font color="red">О ні! Звук рогу!</font>
 
 325
 00:39:06,000 --> 00:39:08,200
 <b><font color="red">Ембер:</font></b>
-<font color="red">The fighting must have got them riled up.</font>
+<font color="red">Мабуть бій їх розлютив.</font>
 
 326
 00:39:09,750 --> 00:39:14,450
 <b><font color="red">Ембер:</font></b>
-<font color="red">Wellm good thing I've prepared my secret weapon: <b>Explosive Puppet "Baron Bunny"</b>!</font>
+<font color="red">Що ж,добре що я прихопила свою секретну зброю: <b>Вибухова Лялька "Барон Банні"</b>!</font>
 
 327
 00:39:53,000 --> 00:39:54,750
 <b><font color="red">Ембер:</font></b>
-<font color="red">Are those <b>explosive barrels</b> over there?</font>
+<font color="red">яи це не <b>вибухові бочки</b> отамо?</font>
 
 328
 00:39:56,200 --> 00:39:58,650
 <b><font color="red">Ембер:</font></b>
-<font color="red">Well... One shot should be able to blow them up!</font>
+<font color="red">Ну що ж... одного пострілу має вистачити аби підірвати їх!</font>
 
 329
 00:40:33,950 --> 00:40:36,750
 <b><font color="red">Ембер:</font></b>
-<font color="red">It's so high... Seems like there's something up there.</font>
+<font color="red">Таа високо... Здається там щось є,на горі.</font>
 
 330
 00:40:38,150 --> 00:40:40,750
 <b>Паймон:</b>
-<i>But how do we get across?</i>
+<i>Але як ми дісианемось туди?</i>
 
 331
 00:40:41,850 --> 00:40:44,800
 <b>Паймон:</b>
-<i>Isn't this... a Pyro Monument?</i>
+<i>Це часом не... Монумент Піро?</i>
 
 332
 00:40:46,500 --> 00:40:50,350
 <b>Паймон:</b>
-<i>If we hit it with a powerful Pyro attack, we might trigger it!</i>
+<i>Якшо вдарити його сильною Піро атакою, ми можемо запустити його!</i>
 
 333
 00:41:20,400 --> 00:41:23,500
 <b><font color="red">Ембер:</font></b>
-<font color="red">Dragon's breath! Is that where the power is coming from?</font>
+<font color="red">Подих Дракона! Це і є джерело цих сил?</font>
 
 334
 00:41:25,150 --> 00:41:27,000
 <b><font color="red">Ембер:</font></b>
-<font color="red">Great, let's smash it!</font>
+<font color="red">Чудово, розіб'єму його!</font>
 
 335
 00:41:27,650 --> 00:41:30,100
 <b><font color="red">Ембер:</font></b>
-<font color="red">Phew, I'm tired.</font>
+<font color="red">Фух, я втомилась.</font>
 
 336
 00:41:30,150 --> 00:41:34,750
