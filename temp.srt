@@ -2057,91 +2057,91 @@
 438
 01:01:05,950 --> 01:01:09,830
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Що ж до тебе, ти більше схожий на учня магісра.</font>
+<font color="purple">Що ж до тебе, ти більше схожий на учня магістра.</font>
 
 439
 01:01:16,150 --> 01:01:18,300
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Break it and we can go head home and relax.</font>
+<font color="purple">Зламаємо цю штуку і можна йти додому розлабитись.</font>
 
 440
 01:01:19,650 --> 01:01:23,660
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">The thought of putting my feet up and relaxing has me all fired up!</font>
+<font color="purple">Думка про те що скоро можна буде протягнути ноги і розслабитись не на жарт мене розпалила!</font>
 
 441
 01:01:26,650 --> 01:01:30,760
 <b>Паймон:</b>
-<i>Oh, it's one of those consolidated wind thingies...</i>
+<i>О, це одна з тих посилених вітрових штук...</i>
 
 442
 01:01:30,860 --> 01:01:33,000
 <b>Паймон:</b>
-<i>Pasichnik, let's head back to the Statue of The Seven at Windrise and offer it to the gods!</i>
+<i>Пасічник, давай повернемось до Статуї Сімох в Віндрайзі і запрпонувати її богам як підношення!</i>
 
 443
 01:01:34,200 --> 01:01:40,050
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Dragon of the East, Lion of the South, Wolf of the North, Falcon of the West...</font>
+<font color="purple">Дракон Сходу, Лев Півдня,Вовк Півночі, Сокіл Заходу...</font>
 
 444
 01:01:40,050 --> 01:01:45,760
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">They are the Four Winds of Mondstadt, affilated with Barbatos, the God of Anemo.</font>
+<font color="purple">Це Чотири Вітри Мондтстадту, наближені до Барбароса, Бога Анемо.</font>
 
 445
 01:01:45,770 --> 01:01:50,850
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">The Dragon of the East, Stormterror - its real name, is Dvalin.</font>
+<font color="purple">Дракон Сходу, Бурешторм, його справжнє ім'я - Двалін.</font>
 
 446
 01:01:50,860 --> 01:01:55,900
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Though most in Mondstadt seem to have forgotten that in al this "Stormterror" buisness.</font>
+<font color="purple">Думаю більшість жителів Мондстадту здається забули про це з усією метушньою довкола "Бурешторму".</font>
 
 447
 01:01:55,930 --> 01:02:03,650
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">So now you know why Dvalin is only able to channel three of the Four Wind's power.</font>
+<font color="purple">Тепер ти розумієш чому Двалін був здатний брати сили лише трьох із Чотирьох Вітрів.</font>
 
 448
 01:02:03,660 --> 01:02:07,350
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Because it has been consuming itself from the begining.</font>
+<font color="purple">Бо свої сили він поглинав від самого початку.</font>
 
 449
 01:02:04,800 --> 01:02:07,350
-<b>Pasichnik:</b> Why?
+<b>Pasichnik:</b> Чому?
 
 450
 01:02:07,430 --> 01:02:09,700
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Because of hatred, I presume.</font>
+<font color="purple">Від ненависті. Принаймні,я так думаю.</font>
 
 451
 01:02:09,900 --> 01:02:12,130
 <b>Паймон:</b>
-<i>Hatred...?</i>
+<i>Ненависть...?</i>
 
 452
 01:02:12,330 --> 01:02:14,000
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Hatred for Mondstadt.</font>
+<font color="purple">Ненависть до Мондстадту.</font>
 
 453
 01:02:14,100 --> 01:02:20,630
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Hatred drove it to become something more powerful than the wind itself - to become Stormterror.</font>
+<font color="purple">Ненависть зробила його значно сильнішим ніж просто вітер,вона зробила його - Бурежахом.</font>
 
 454
 01:02:20,830 --> 01:02:23,400
 <b>Паймон:</b>
-<i>But why would one of The Four Winds...</i>
+<i>Але чому один з Чотирьох Вітрів...</i>
 
 455
 01:02:23,450 --> 01:02:26,770
 <b>Паймон:</b>
-<i>Hate the city it was supposed to protect?</i>
+<i>Ненавидять місто, яке мали б захищати?</i>
 
 456
 01:02:27,000 --> 01:02:28,950
@@ -2151,49 +2151,49 @@
 457
 01:02:29,090 --> 01:02:34,000
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">As a child of Mondsdadt, it's something that's really hard to say aloud.</font>
+<font color="purple">Як дитині Мондстадту, це важко казати вголос.</font>
 
 458
 01:02:34,050 --> 01:02:39,560
 <b><font color="purple">Ліза:</font></b>
-<font color="purple">Here, take this. It's a very old story from more than century ago.</font>
+<font color="purple">Ось, візьми. Це дуже стара історія,яка мала місце століття назад.</font>
 
 459
 01:02:42,480 --> 01:02:46,500
 <b>Паймон:</b>
-<i>Well... You should come with me, Паймон'll tell you about the rest later.</i>
+<i>Що ж... Тобі варто йти зі мною, Паймон розкаже решту пізніше.</i>
 
 460
 01:03:07,030 --> 01:03:17,130
-Obtained New Character
+Отримано Новий Персонаж
 <b><font color="purple">Ліза:</font></b>
 
 461
 01:03:19,100 --> 01:03:21,900
 <b>Паймон:</b>
-<i>Phew, it's finally done.</i>
+<i>Фух. Нарешті з цим розібрались.</i>
 
 462
 01:03:21,950 --> 01:03:30,100
 <b>Паймон:</b>
-<i>Well, all that "ley flow" and "elemental lines" stuff Ліза was going on about should hopefully be back to normal.</i>
+<i>Щож, сподіваюсь усі ці "лей потоки" і "елементальні лінії" про які розказувала Ліза повернулись до норми.</i>
 
 463
 01:03:30,200 --> 01:03:34,300
 <b>Паймон:</b>
-<i>Whanna go back and see how the <b>Knights</b> are doing?</i>
+<i>Хочеш повернемось подивитись як <b>Лицарі</b> поживають?</i>
 
 464
 01:03:34,300 --> 01:03:38,500
 <b>Паймон:</b>
-<i>But if you got anything more interesting to do, Паймон can come too!</i>
+<i>Але якщо у тебе є щось цікавіше робити, Паймон теж може підти!</i>
 
 465
 01:03:38,500 --> 01:03:45,460
 <b>Паймон:</b>
-<i>By the way, we obtrained another Anemoculus in one of The Four Winds' temples, right?</i>
+<i>Доречі, ми знайшли інший Анемокулюс в одному з Храмів Чотирьох Вітрів, так?</i>
 
 466
 01:03:45,460 --> 01:03:51,130
 <b>Паймон:</b>
-<i>We might come across more of them in the future, so don't forget to offer them to the Statues!</i>
+<i>Ми можемо натрапити на ще таких в майбутньому, тому не щаьувай їх підносити Статуї Семи!</i>
